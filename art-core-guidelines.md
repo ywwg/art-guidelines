@@ -46,6 +46,68 @@
 
 This will be the website.  Not sure what else to add.
 
+### Art Grant Application
+
+Below are general thoughts on each of the questions.
+
+- Project Overview
+
+NSL: I think this should be separated into two section -- an 'experience' section, meant to explain to the committee how the artist envisions particpants experiencing their work; and a 'schematic' type section, where the applicant descirbes how they'll actually build it.
+
+- Interactivity
+
+NSL: I'd rather wrap this into the 'experience' section; I feel that requiring (rather than having preference for) interactivity gives a lot of janky interactions.  Honestly, I'd rather fund a really awesome non-interactive project than a janky interactive project that's only interactive so they can get money.
+
+
+- Placement Requirements
+
+NSL: Fine as-is.
+
+
+- Risk Analysis
+
+NSL: Fine as-is.
+
+
+- Rain Plan
+
+NSL: Should be wrapped up with installation plan.
+
+
+- Project Schedule
+
+NSL:
+
+
+- Installation Plan
+
+NSL: Needs a bit over an overhaul.  Concerns include: How does the project package up to be transportable? How do you intend to get it on-site? How many people do you need to carry it up the hill? How do you plan to make sure it survives the weather?
+
+
+- Supporting documents
+
+NSL: Fine as-is.
+
+
+- Cost and Budget
+
+NSL: Perhaps we should make it more clear that we expect Fireflies to pay for some amount of their project; art grants are meant to help projects go further, not to entirely fund them.
+
+
+- ~~Partial Funding~~
+
+NSL: I think we're removing this?
+
+
+- Leave No Trace Plan
+
+NSL: fine as-is.
+
+
+- Documentation
+
+NSL: Should we remove this? This isn't really a question as much as a reminder... everyone just answers "I'll take photos/video".
+
 ## Grants
 
 Applicants may apply for multiple grants in the same year; however, each project is only eligible for a single grant.  In addition, all grants are all-or-nothing 	- there is no partial funding model.
