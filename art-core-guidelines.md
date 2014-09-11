@@ -57,7 +57,9 @@
 
 ## Grant Process
 
-This will be the website.  Not sure what else to add.
+The grant process will take place via a Firefly Art Grant web portal (to be developed).
+
+All applications will be submitted via a standardized web form and reviewed via a reviewers section on the site.
 
 ### Art Grant Application
 
@@ -124,6 +126,8 @@ NSL: Should we remove this? This isn't really a question as much as a reminder..
 ## Grants
 
 Applicants may apply for multiple grants in the same year; however, each project is only eligible for a single grant.  In addition, all grants are all-or-nothing 	- there is no partial funding model.
+
+Grants are intended to support a project's completion - not to fund it in full.
 
 ### Creativity Grants
 
