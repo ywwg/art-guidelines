@@ -44,7 +44,9 @@
 
 ## Grant Process
 
-This will be the website.  Not sure what else to add.
+The grant process will take place via a Firefly Art Grant web portal (to be developed).
+
+All applications will be submitted via a standardized web form and reviewed via a reviewers section on the site.
 
 ## Grants
 
