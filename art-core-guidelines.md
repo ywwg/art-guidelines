@@ -52,6 +52,8 @@ All applications will be submitted via a standardized web form and reviewed via 
 
 Applicants may apply for multiple grants in the same year; however, each project is only eligible for a single grant.  In addition, all grants are all-or-nothing 	- there is no partial funding model.
 
+Grants are intended to support a project's completion - not to fund it in full.
+
 ### Creativity Grants
 
 Creativity Grants are the basic grant that Firefly gives out for its summer festival.  Applicants may apply for one of four budget tiers with their project:
