@@ -2,11 +2,19 @@
 
 ## Timeline
 
+- October
+	- Spec out submissions website
+	- Begin building submissions website
+
+- November
+	- Final tweaks to submissions website
+
 - December
 	- Finalize all paperwork
 	- Call for art grant committee members
 	- Submission website works
 	- Art Guidelines on website
+	- Update/restructure art grant content fireflyartscollective.org
 
 - January
 	- Launch Silk Grants, Temple Grants application
@@ -14,13 +22,15 @@
 
 - February
 	- Review Silk / Temple Grant applications, disburse first payment
+	- Two meetings with committee to review applications, like in the past?
 	- Launch Creativity, Legacy Grants applications
 
 - March
 	- Review Creativity, Legacy Grant applications, disburse first payment
+	- Two meetings with committee to review applications?
 
 - April
-	- check-in with artists? Meetup at gallery space?
+	- Check-in with artists? Meetup at gallery space?
 	- Deal with flakey artists who don't get tickets
 
 - May
@@ -29,6 +39,8 @@
 
 - June
 	- Art Placement
+	- Compile easy art guide for art tours (not exactly sure what information was given to them in the past, but it might be easier to get more volunteers with a simple handout of some kind!)
+	- Art truck coordination?
 	- Run around like chickens with our heads cut off
 
 - July
@@ -36,15 +48,18 @@
 	- FIGMENT (for Silk Grants)
 
 - August
-	- art documentation
+	- Art documentation
+	- Add photographs of art to website (either ffa.org or submissions site?)
 
 - September
-	- pay artists final payment
+	- Pay artists final payment
 
 
 ## Grant Process
 
-This will be the website.  Not sure what else to add.
+The grant process will take place via a Firefly Art Grant web portal (to be developed).
+
+All applications will be submitted via a standardized web form and reviewed via a reviewers section on the site.
 
 ### Art Grant Application
 
@@ -114,6 +129,7 @@ NSL: Should we remove this? This isn't really a question as much as a reminder..
 
 Applicants may apply for multiple grants in the same year; however, each project is only eligible for a single grant.  In addition, all grants are all-or-nothing 	- there is no partial funding model.
 
+Grants are intended to support a project's completion - not to fund it in full.
 
 ### Creativity Grants
 
@@ -139,6 +155,5 @@ Silk Grants are multi-event grants.  These are for NEW projects (not currently e
 ### Temple Grant
 
 Art Core also runs the process for selecting the temple each year.
-
 
 ### ??? Other Grants ???
