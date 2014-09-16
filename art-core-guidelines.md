@@ -33,7 +33,7 @@
 
 - July
 	- FIREFLY!
-	- FIGMENT!
+	- FIGMENT (for Silk Grants)
 
 - August
 	- art documentation
@@ -108,9 +108,12 @@ NSL: fine as-is.
 
 NSL: Should we remove this? This isn't really a question as much as a reminder... everyone just answers "I'll take photos/video".
 
+## Artist Support
+
 ## Grants
 
 Applicants may apply for multiple grants in the same year; however, each project is only eligible for a single grant.  In addition, all grants are all-or-nothing 	- there is no partial funding model.
+
 
 ### Creativity Grants
 
@@ -123,9 +126,11 @@ Creativity Grants are the basic grant that Firefly gives out for its summer fest
 
 All creativity grants are required to be present for both Firefly Arts Festival and at Firefly Open Studios.  Projects need not be complete at open studios, but the artist must be present if at all possible.
 
+
 ### Legacy Grants
 
-Returning projects may apply for a Legacy Grant.  Legacy Grants are meant for projects that are returning, and only need minor funding for repairs, upgrades, etc.  Projects that are undergoing a large overhaul must either be self-funded or apply for a creativity grant.  The Legacy Grant offers a returning project a grant for $100 or less to improve upon a previous grant.  
+Returning projects may apply for a Legacy Grant.  Legacy Grants are meant for projects that are returning, and only need minor funding for repairs, upgrades, etc.  Projects that are undergoing a large overhaul must either be self-funded or apply for a creativity grant.  The Legacy Grant offers a returning project a grant for $100 or less to improve upon a previous grant.
+
 
 ### Silk Grants
 
@@ -133,6 +138,7 @@ Silk Grants are multi-event grants.  These are for NEW projects (not currently e
 
 ### Temple Grant
 
-Art Core also runs the process for selecting the temple each year.  *We need more information before we can write guidelines for this*
+Art Core also runs the process for selecting the temple each year.
+
 
 ### ??? Other Grants ???
