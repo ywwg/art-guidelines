@@ -37,3 +37,50 @@ Proposals will be evaluated based on the following factors:
 | Grant Documentation Deadline | 2014 August 1 |
 
 ## Application
+
+Your application must answer each of the questions below to be considered for a Firefly Creativit Grant.
+
+### Artist Information
+Please provide us with the following information on your application:
+* Artist Name (or Collective Name)
+* Name of Piece
+* Contact Name
+* Contact Postal Address
+* Contact E-mail Address
+* Contact Phone Number
+
+The following questions are not required but are helpful for our statistics:
+* Have you attended Firefly before?
+  * If so, how have you participated?
+* Have you been to a Burning Man Reginoal Event (besides Firefly) before?
+  * If so, how have you participated?
+* Have you attended Burning Man before?
+  * If so, how have you participated?
+
+* If you are awarded a Creativity Grant, can we use your grant application as an example of a successful application next year?
+
+### Grant Application
+
+#### Experience Design
+Tell us about your project.  Please include the concept, the scale, how people are to interact with it (is it visual? aural? tactile?), and anything else relevant to the experience.  Please include any relevant drawings, sketches, images, or inspirations.
+
+#### Technical Design
+How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be constructed?  Please include relevants sketches and diagrams.
+
+#### Installation Plan
+How will you get it up the hill? How will you weatherproof it? How will you make sure you complete it before Thursday? Convince us that you can make this project happen in the middle of the Vermont woods in July.
+
+#### Risk Analysis
+Do we need this still?
+
+#### Project Timeline
+Attach (as a table) a rough timeline for your project.  We want to know that you've thought through how long this will take to build.  Include the required dates included in the Summary of Deadlines.
+
+#### Project Budget
+Attach a seperate table with a line item budget.
+
+#### Project Placement
+Where would you like your project to be placed?  Priority will be given to returning projects.
+
+#### Leave No Trace Plan
+What's your LNT plan?
