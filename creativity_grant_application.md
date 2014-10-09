@@ -11,6 +11,15 @@ Proposals will be evaluated based on the following factors:
 * Originality and Creativity
 * Feasibility (including capabilities of the artist)
 
+Grants are currently available at the following tiers:
+
+* $100
+* $300
+* $500
+* $800
+
+Please indicate which tier you are applying for in your grant application (you may apply for multiple tiers!).  Unlike previous years, there is no partial funding model this year.
+
 ### Application Instructions
 
 1. Take a good look at the deadlines above.  *Make sure you meet every single one.*
@@ -61,6 +70,8 @@ The following questions are not required but are helpful for our statistics:
 
 ### Grant Application
 
+Please submit a .pdf file that addresses all of the following items:
+
 #### Experience Design
 Tell us about your project.  Please include the concept, the scale, how people are to interact with it (is it visual? aural? tactile?), and anything else relevant to the experience.  Please include any relevant drawings, sketches, images, or inspirations.
 
@@ -77,10 +88,14 @@ Do we need this still?
 Attach (as a table) a rough timeline for your project.  We want to know that you've thought through how long this will take to build.  Include the required dates included in the Summary of Deadlines.
 
 #### Project Budget
-Attach a seperate table with a line item budget.
+Attach a seperate table with an itemized budget that lists all of your expected expenses (including material costs, equipment rentals, consumables, etc.)
+
+Please also list a separate table showing how you plan to cover these costs -- what portion of the expenses will be covered by the grant? How much from personal funds?
+
+You may provide several proposed funding models, one for each grant tier you apply for.  Remember -- you can apply for multiple funding tiers, but there is no partial funding.
 
 #### Project Placement
 Where would you like your project to be placed?  Priority will be given to returning projects.
 
 #### Leave No Trace Plan
-What's your LNT plan?
+Please describe your LNT Plan.
