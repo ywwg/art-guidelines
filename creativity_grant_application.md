@@ -20,18 +20,6 @@ Grants are currently available at the following tiers:
 
 Please indicate which tier you are applying for in your grant application (you may apply for multiple tiers!).  Unlike previous years, there is no partial funding model this year.
 
-### Application Instructions
-
-1. Take a good look at the deadlines above.  *Make sure you meet every single one.*
-2. Application Submission Details
-3. Art Grant Contract Details
-4. Ticket Registration Details
-5. Artist Meetup Details
-6. Open Studios Details
-7. Artist Meetup Details
-8. Firefly Details
-9. Documentation Details
-
 ### Summary of Deadlines
 | *Event* | *Deadline* |
 |:-----|---------:|
@@ -44,6 +32,17 @@ Please indicate which tier you are applying for in your grant application (you m
 | Artist Meetup #2 | 2014 June |
 | Firefly Event | 2014 July 1 - 6 |
 | Grant Documentation Deadline | 2014 August 1 |
+
+### Frequently Asked Questions
+
+#### Application Submission Details
+#### Art Grant Contract Details
+#### Ticket Registration Details
+#### Artist Meetup Details
+#### Open Studios Details
+#### Artist Meetup Details
+#### Firefly Details
+#### Documentation Details
 
 ## Application
 
@@ -65,7 +64,6 @@ The following questions are not required but are helpful for our statistics:
   * If so, how have you participated?
 * Have you attended Burning Man before?
   * If so, how have you participated?
-
 * If you are awarded a Creativity Grant, can we use your grant application as an example of a successful application next year?
 
 ### Grant Application
@@ -82,7 +80,7 @@ How will you actually build this? What sort of materials, hardware, tools, etc. 
 How will you get it up the hill? How will you weatherproof it? How will you make sure you complete it before Thursday? Convince us that you can make this project happen in the middle of the Vermont woods in July.
 
 #### Risk Analysis
-Do we need this still?
+Please perform a risk analysis. What safeguards do you have in place? How do you plan to protect the project or participants during the day or night and from the project’s correct functionor error? What are the potential health hazards or danger to the environment? Please include a detailed safety plan if the project requires structural, combustible, or other qualities of risk.Some large-scale art, or projects utilizing fire, for example, may be subject to greater scrutiny/further questions from the Art Grant Review Committee. ANY Art that incorporates fire MUSTbe reviewed by the Fire Core. For further ideas about safety of public art, please see: http://www.burningman.com/installations/creating_dangerous_art.html
 
 #### Project Timeline
 Attach (as a table) a rough timeline for your project.  We want to know that you've thought through how long this will take to build.  Include the required dates included in the Summary of Deadlines.
