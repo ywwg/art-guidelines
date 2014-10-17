@@ -1,6 +1,6 @@
 {
     "root" : 
-    {
+    [
 	{ "year" : 2010,
 	  "requested" : null,
 	  "awarded" : 810
@@ -107,7 +107,7 @@
 	},
 	
 	{ "year" : 2012,
-	  "requested" : 300
+	  "requested" : 300,
 	  "awarded" : 300
 	},
 	
@@ -427,7 +427,7 @@
 	},
 
 	{ "year" : 2014,
-	  "requested" : 120
+	  "requested" : 120,
 	  "awarded" : 0
 	},
 
@@ -594,6 +594,6 @@
 	{ "year" : 2014,
 	  "requested" : 800,
 	  "awarded" : 600
-	},
-    }
+	}
+    ]
 }
