@@ -17,11 +17,11 @@
 	- Update/restructure art grant content fireflyartscollective.org
 
 - January
-	- Launch Silk Grants, Temple Grants application
+	- Launch Lace Grants, Temple Grants application
 	- Finalize contract language and terms
 
 - February
-	- Review Silk / Temple Grant applications, disburse first payment
+	- Review Lace / Temple Grant applications, disburse first payment
 	- Two meetings with committee to review applications, like in the past?
 	- Launch Creativity, Legacy Grants applications
 
@@ -46,7 +46,7 @@
 - July
 	- FIREFLY!
 	- Make sure artists check in
-	- FIGMENT (for Silk Grants)
+	- FIGMENT (for Lace Grants)
 
 - August
 	- Art documentation
@@ -149,9 +149,9 @@ All creativity grants are required to be present for both Firefly Arts Festival 
 Returning projects may apply for a Legacy Grant.  Legacy Grants are meant for projects that are returning, and only need minor funding for repairs, upgrades, etc.  Projects that are undergoing a large overhaul must either be self-funded or apply for a creativity grant.  The Legacy Grant offers a returning project a grant for $100 or less to improve upon a previous grant.
 
 
-### Silk Grants
+### Lace Grants
 
-Silk Grants are multi-event grants.  These are for NEW projects (not currently existing projects).  Projects must be spectacular, and be present at both Firefly Arts Festival and FIGMENT Boston.  Silk Grants are eligible for up to $1000.00 of funding.
+Lace Grants are multi-event grants.  These are for NEW projects (not currently existing projects).  Projects must be spectacular, and be present at both Firefly Arts Festival and FIGMENT Boston.  Lace Grants are eligible for up to $1000.00 of funding.
 
 ### Temple Grant
 
