@@ -10,7 +10,7 @@
 	- Final tweaks to submissions website
 
 - December
-	- Finalize all paperwork
+	- Finalize all paperwork (contracts)
 	- Call for art grant committee members
 	- Submission website works
 	- Art Guidelines on website
@@ -45,6 +45,7 @@
 
 - July
 	- FIREFLY!
+	- Make sure artists check in
 	- FIGMENT (for Silk Grants)
 
 - August
