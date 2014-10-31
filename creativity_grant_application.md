@@ -7,16 +7,16 @@ The Firefly Arts Collective, (FAC), is excited to offer a grant program for our 
 
 Proposals will be evaluated based on the following factors:
 
-* Relationship between piece and participants
-* Originality and Creativity
-* Feasibility (including capabilities of the artist)
+* Thoughtfulness -- how well thought out is the projecdt's relationship with participants?
+* Creativity -- how original and awe-inspiring is your project?
+* Feasibility -- how feasible is this project?
 
 Grants are currently available at the following tiers:
 
-* $100
+* $150
 * $300
 * $500
-* $800
+* $700
 
 Please indicate which tier you are applying for in your grant application (you may apply for multiple tiers!).  Unlike previous years, there is no partial funding model this year.
 
@@ -46,7 +46,7 @@ Please indicate which tier you are applying for in your grant application (you m
 
 ## Application
 
-Your application must answer each of the questions below to be considered for a Firefly Creativit Grant.
+Your application must answer each of the questions below to be considered for a Firefly Creativity Grant.
 
 ### Artist Information
 Please provide us with the following information on your application:
@@ -77,9 +77,10 @@ Tell us about your project.  Please include the concept, the scale, how people a
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be constructed?  Please include relevants sketches and diagrams.
 
 #### Installation Plan
-How will you get it up the hill? How will you weatherproof it? How will you make sure you complete it before Thursday? Convince us that you can make this project happen in the middle of the Vermont woods in July.
+How will you get your project to its placed site? How will you weatherproof it? How will you make sure you complete it before Thursday? Convince us that you can make this project happen in the middle of the Vermont woods in July.
 
 #### Risk Analysis
+*How do we rephrase this?*
 Please perform a risk analysis. What safeguards do you have in place? How do you plan to protect the project or participants during the day or night and from the project’s correct functionor error? What are the potential health hazards or danger to the environment? Please include a detailed safety plan if the project requires structural, combustible, or other qualities of risk.Some large-scale art, or projects utilizing fire, for example, may be subject to greater scrutiny/further questions from the Art Grant Review Committee. ANY Art that incorporates fire MUSTbe reviewed by the Fire Core. For further ideas about safety of public art, please see: http://www.burningman.com/installations/creating_dangerous_art.html
 
 #### Project Timeline
