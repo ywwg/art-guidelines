@@ -1,37 +1,35 @@
 # Firefly Lace Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods. These grant
-awards are intended to support and promote your interactive, community-based, collaborative, radically-expressive
-creations. Proposals can include installations, performances, 2-D and 3-D works, fire art, activities, or other
-participatory and interactive projects. Only projects that meet these criteria should be submitted. For example, a sound
-project (band, DJ, etc.) must include an interactive component or additional performance aspect to be
-considered. Individual theme camps will not be funded, but proposals for projects/events placed within Theme Camp areas
-are welcome to apply.
-
+The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  Since our
+tenth anniversary in 2012, the Lace Grant (formerly known as the Tin, Steel, and Silk Grant) has been our largest
+grant.  This grant is given out to ambitious projects that embody the values that Firefly supports, and represent
+Firefly outside of our summer event.  These projects must be appropriate large in scale, spectacular, and suitable for
+presentation at a variety of venues.
 
 ### Review Criteria
 
 Proposals will be evaluated based on the following factors:
 
 * Thoughtfulness -- how well thought out is the projecdt's relationship with participants?
-* Lace -- how original and awe-inspiring is your project?
+* Creativity -- how original and awe-inspiring is your project?
 * Feasibility -- how feasible is this project?
 
 Lace Grant Applications will be considered for amounts up to $1000.00.
 
 ### Summary of Deadlines
-| *Event* | *Deadline* |
-|:-----|---------:|
-| Submission Deadline | 2014 March 4 |
-| Grant Applicants notified of decisions | 2014 March 17 |
-| Art Grant Contract Acceptance Deadline | 2014 March 22 |
-| Ticket Registration Deadline | 2014 March 24 |
-| Artist Meetup #1 | 2014 April |
-| Firefly Open Studios | 2014 May |
-| Artist Meetup #2 | 2014 June |
-| Firefly Event | 2014 July 1 - 6 |
-| Grant Documentation Deadline | 2014 August 1 |
+| *Event*                                | *Deadline*      |
+| :-----                                 | ---------:      |
+| Submission Deadline                    | 2014 March 4    |
+| Grant Applicants notified of decisions | 2014 March 17   |
+| Art Grant Contract Acceptance Deadline | 2014 March 22   |
+| Ticket Registration Deadline           | 2014 March 24   |
+| Artist Meetup #1                       | 2014 April      |
+| Firefly Open Studios                   | 2014 May        |
+| Artist Meetup #2                       | 2014 June       |
+| Firefly Event                          | 2014 July 1 - 6 |
+| FIGMENT Boston                         | 2014 July       |
+| Grant Documentation Deadline           | 2014 August 1   |
 
 ### Frequently Asked Questions
 
@@ -66,7 +64,6 @@ The following questions are not required but are helpful for our statistics:
   * If so, how have you participated?
 * If you are awarded a Lace Grant, can we use your grant application as an example of a successful application next
   year?
-  
 
 ### Grant Application
 

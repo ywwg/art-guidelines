@@ -1,7 +1,9 @@
-# Firefly Temple Grant
+# Firefly Legacy Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.
+The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  The Legacy
+Grant is provided to support existing projects. Art can be exposed to many elements at FIrefly -- mud, rain, sun, and
+most of all, people -- and this grant is designed to provide funding to help with wear and tear produced by this exposure.
 
 
 ### Review Criteria
@@ -12,7 +14,7 @@ Proposals will be evaluated based on the following factors:
 * Creativity -- how original and awe-inspiring is your project?
 * Feasibility -- how feasible is this project?
 
-Temple Grant Applications will be considered for amounts up to $1000.00.
+Legacy Grants are currently available for $100.
 
 ### Summary of Deadlines
 | *Event*                                | *Deadline*      |
@@ -40,7 +42,7 @@ Temple Grant Applications will be considered for amounts up to $1000.00.
 
 ## Application
 
-Your application must answer each of the questions below to be considered for a Firefly Temple Grant.
+Your application must answer each of the questions below to be considered for a Firefly Legacy Grant.
 
 ### Artist Information
 Please provide us with the following information on your application:
@@ -52,14 +54,12 @@ Please provide us with the following information on your application:
 * Contact Phone Number
 
 The following questions are not required but are helpful for our statistics:
-* Have you attended Firefly before?
-  * If so, how have you participated?
 * Have you been to a Burning Man Reginoal Event (besides Firefly) before?
   * If so, how have you participated?
 * Have you attended Burning Man before?
   * If so, how have you participated?
-* If you are awarded a Temple Grant, can we use your grant application as an example of a successful application next
-  year?
+* If you are awarded a Legacy Grant, can we use your grant application as an example of a successful application
+  next year?
   
 
 ### Grant Application
@@ -67,20 +67,17 @@ The following questions are not required but are helpful for our statistics:
 Please submit a .pdf file that addresses all of the following items:
 
 #### Experience Design
-Tell us about your project.  Please include the concept, the scale, how people are to interact with it (is it visual?
+Not all of us have seen your project before!  Tell us about your project.  Please include the concept, the scale, how people are to interact with it (is it visual?
 aural? tactile?), and anything else relevant to the experience.  Please include any relevant drawings, sketches, images,
 or inspirations.
 
-
 #### Technical Design
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be
-constructed?  Please include relevants sketches and diagrams.
-
+constructed?  What changes do you intend to make with Legacy Grant funding?  Please include relevants sketches and diagrams.
 
 #### Installation Plan
 How will you get your project to its placed site? How will you weatherproof it? How will you make sure you complete it
 before Thursday? Convince us that you can make this project happen in the middle of the Vermont woods in July.
-
 
 #### Risk Analysis
 *How do we rephrase this?*
@@ -97,14 +94,10 @@ Attach (as a table) a rough timeline for your project.  We want to know that you
 take to build.  Include the required dates included in the Summary of Deadlines.
 
 #### Project Budget
-Attach a seperate table with an itemized budget that lists all of your expected expenses (including material costs,
-equipment rentals, consumables, etc.)
+Attach a seperate table with an itemized budget that lists all of your new expenses.
 
 Please also list a separate table showing how you plan to cover these costs -- what portion of the expenses will be
 covered by the grant? How much from personal funds?
-
-You may provide several proposed funding models, one for each grant tier you apply for.  Remember -- you can apply for
-multiple funding tiers, but there is no partial funding.
 
 #### Project Placement
 Where would you like your project to be placed?  Priority will be given to returning projects.
