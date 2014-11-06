@@ -10,7 +10,7 @@ most of all, people -- and this grant is designed to provide funding to help wit
 
 Proposals will be evaluated based on the following factors:
 
-* Thoughtfulness -- how well thought out is the projecdt's relationship with participants?
+* Thoughtfulness -- how well thought out is the project's relationship with participants?
 * Creativity -- how original and awe-inspiring is your project?
 * Feasibility -- how feasible is this project?
 

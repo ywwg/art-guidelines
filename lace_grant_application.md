@@ -1,17 +1,13 @@
 # Firefly Lace Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  Since our
-tenth anniversary in 2012, the Lace Grant (formerly known as the Tin, Steel, and Silk Grant) has been our largest
-grant.  This grant is given out to ambitious projects that embody the values that Firefly supports, and represent
-Firefly outside of our summer event.  These projects must be appropriate large in scale, spectacular, and suitable for
-presentation at a variety of venues.
+The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  In honor of our event's tenth anniversary, each year Firefly gives out three large-scale grants to ambitious projects that embody our values.  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriate large in scale, spectacular, and suitable for presentation at a variety of venues.
 
 ### Review Criteria
 
 Proposals will be evaluated based on the following factors:
 
-* Thoughtfulness -- how well thought out is the projecdt's relationship with participants?
+* Thoughtfulness -- how well thought out is the project's relationship with participants?
 * Creativity -- how original and awe-inspiring is your project?
 * Feasibility -- how feasible is this project?
 
@@ -74,16 +70,12 @@ Tell us about your project.  Please include the concept, the scale, how people a
 aural? tactile?), and anything else relevant to the experience.  Please include any relevant drawings, sketches, images,
 or inspirations.
 
-
 #### Technical Design
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be
 constructed?  Please include relevants sketches and diagrams.
 
-
 #### Installation Plan
-How will you get your project to its placed site? How will you weatherproof it? How will you make sure you complete it
-before Thursday? Convince us that you can make this project happen in the middle of the Vermont woods in July.
-
+Lace Grant projects provide logistical challenges beyond that of a normal Creativity Grant.  The project must be exhibited not just at Firefly, but also at FIGMENT in the heart of Boston.  How do you plan on getting your project to each site?  How do you plan on assembling it within a reasonable timeframe at each event?  How will the project be weatherproofed?
 
 #### Risk Analysis
 *How do we rephrase this?*
@@ -110,7 +102,7 @@ You may provide several proposed funding models, one for each grant tier you app
 multiple funding tiers, but there is no partial funding.
 
 #### Project Placement
-Where would you like your project to be placed?  Priority will be given to returning projects.
+Where would you like your project to be placed at Firefly?  Priority will be given to returning projects.
 
 #### Leave No Trace Plan
 Please describe your LNT Plan.

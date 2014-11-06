@@ -1,14 +1,15 @@
 # Firefly Temple Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.
+The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  The Temple aims to satisfy both a civic and spiritual need by creating a sacred space for gathering at Firefly.  The Temple is placed in the field, and provides a space for Fireflies to seek quiet contemplation and introspection at the event.  It is of the utmost importance that the The Temple defines a space; that said, it does not have to be traditional shelter or building.
 
+It is traditional for the temple to serve as a place for participants to leave offerings, and the structure will be burned on Saturday night of the event.  
 
 ### Review Criteria
 
 Proposals will be evaluated based on the following factors:
 
-* Thoughtfulness -- how well thought out is the projecdt's relationship with participants?
+* Thoughtfulness -- how well thought out is the project's relationship with participants?
 * Creativity -- how original and awe-inspiring is your project?
 * Feasibility -- how feasible is this project?
 
@@ -71,16 +72,13 @@ Tell us about your project.  Please include the concept, the scale, how people a
 aural? tactile?), and anything else relevant to the experience.  Please include any relevant drawings, sketches, images,
 or inspirations.
 
-
 #### Technical Design
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be
 constructed?  Please include relevants sketches and diagrams.
 
-
 #### Installation Plan
 How will you get your project to its placed site? How will you weatherproof it? How will you make sure you complete it
-before Thursday? Convince us that you can make this project happen in the middle of the Vermont woods in July.
-
+before the event begins? Keep in mind that the Temple is typically built during work weekends, and the majority of construction is completed before the event.
 
 #### Risk Analysis
 *How do we rephrase this?*
@@ -105,9 +103,6 @@ covered by the grant? How much from personal funds?
 
 You may provide several proposed funding models, one for each grant tier you apply for.  Remember -- you can apply for
 multiple funding tiers, but there is no partial funding.
-
-#### Project Placement
-Where would you like your project to be placed?  Priority will be given to returning projects.
 
 #### Leave No Trace Plan
 Please describe your LNT Plan.

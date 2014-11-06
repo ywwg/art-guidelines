@@ -7,7 +7,7 @@ The Firefly Arts Collective, (FAC), is excited to offer a grant program for our 
 
 Proposals will be evaluated based on the following factors:
 
-* Thoughtfulness -- how well thought out is the projecdt's relationship with participants?
+* Thoughtfulness -- how well thought out is the project's relationship with participants?
 * Creativity -- how original and awe-inspiring is your project?
 * Feasibility -- how feasible is this project?
 

@@ -36,6 +36,7 @@
 - May
 	- Firefly Open Studios 	- check-in with artists
 	- Find Art Tours, Art Photographers
+	- Contact placement with artist information
 
 - June
 	- Art Placement
@@ -62,69 +63,17 @@ The grant process will take place via a Firefly Art Grant web portal (to be deve
 
 All applications will be submitted via a standardized web form and reviewed via a reviewers section on the site.
 
-### Art Grant Application
+### Applicants
+Each grant application should serve as a complete set of instructions for how each grant is handled.
 
-Below are general thoughts on each of the questions.
+### Reviewers
+review-process.md contains all information about the Review Committee Process used to select art grants.
 
-- Project Overview
-
-NSL: I think this should be separated into two section -- an 'experience' section, meant to explain to the committee how the artist envisions particpants experiencing their work; and a 'schematic' type section, where the applicant descirbes how they'll actually build it.
-
-- Interactivity
-
-NSL: I'd rather wrap this into the 'experience' section; I feel that requiring (rather than having preference for) interactivity gives a lot of janky interactions.  Honestly, I'd rather fund a really awesome non-interactive project than a janky interactive project that's only interactive so they can get money.
-
-
-- Placement Requirements
-
-NSL: Fine as-is.
-
-
-- Risk Analysis
-
-NSL: Fine as-is.
-
-
-- Rain Plan
-
-NSL: Should be wrapped up with installation plan.
-
-
-- Project Schedule
-
-NSL:
-
-
-- Installation Plan
-
-NSL: Needs a bit over an overhaul.  Concerns include: How does the project package up to be transportable? How do you intend to get it on-site? How many people do you need to carry it up the hill? How do you plan to make sure it survives the weather?
-
-
-- Supporting documents
-
-NSL: Fine as-is.
-
-
-- Cost and Budget
-
-NSL: Perhaps we should make it more clear that we expect Fireflies to pay for some amount of their project; art grants are meant to help projects go further, not to entirely fund them.
-
-
-- ~~Partial Funding~~
-
-NSL: I think we're removing this?
-
-
-- Leave No Trace Plan
-
-NSL: fine as-is.
-
-
-- Documentation
-
-NSL: Should we remove this? This isn't really a question as much as a reminder... everyone just answers "I'll take photos/video".
+### Core Leads
+This document should contain everything that the core leads need to know!
 
 ## Artist Support
+
 
 ## Grants
 
@@ -143,11 +92,9 @@ Creativity Grants are the basic grant that Firefly gives out for its summer fest
 
 All creativity grants are required to be present for both Firefly Arts Festival and at Firefly Open Studios.  Projects need not be complete at open studios, but the artist must be present if at all possible.
 
-
 ### Legacy Grants
 
 Returning projects may apply for a Legacy Grant.  Legacy Grants are meant for projects that are returning, and only need minor funding for repairs, upgrades, etc.  Projects that are undergoing a large overhaul must either be self-funded or apply for a creativity grant.  The Legacy Grant offers a returning project a grant for $100 or less to improve upon a previous grant.
-
 
 ### Lace Grants
 

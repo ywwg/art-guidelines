@@ -19,6 +19,8 @@ The Art Core Leads and Board Liason may be members of the Review Committee, but 
 required to be.  Members of the Review Committee may apply for a grant, but may not discuss that grant at either of the
 Review Committee meetings.
 
+Invitations should be extended to FAST and Placement to each submit one person to the committee, so that their respective cores may chime in about art grants.
+
 ### Initial Review
 Each member of the Review Committee will review all applications and assign them a numerical score of 0, 1, or 2 on each
 of the three Review Criteria (Thoughtfullness, Creativity, and Feasibility) before the first meeting.  These scores
