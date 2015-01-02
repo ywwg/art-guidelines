@@ -7,7 +7,6 @@ This document contains all of the process and procedures for reviewing art grant
 All grants shall be submitted via the Submissions Website. The website automatically anonymizes the documents
 while providing the Review Committee access to them in .pdf format.
 
-
 ## Review Committee
 
 ### Call for Committee Members
@@ -19,7 +18,8 @@ The Art Core Leads and Board Liason may be members of the Review Committee, but 
 required to be.  Members of the Review Committee may apply for a grant, but may not discuss that grant at either of the
 Review Committee meetings.
 
-Invitations should be extended to FAST and Placement to each submit one person to the committee, so that their respective cores may chime in about art grants.
+Invitations should be extended to FAST and Placement to each submit one person to the committee, so that their
+respective cores may voice any concerns about grants.
 
 ### Initial Review
 Each member of the Review Committee will review all applications and assign them a numerical score of 0, 1, or 2 on each

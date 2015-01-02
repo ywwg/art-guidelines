@@ -1,22 +1,21 @@
 # Firefly Legacy Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  The Legacy
-Grant is provided to support existing projects. Art can be exposed to many elements at FIrefly -- mud, rain, sun, and
+The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  The Legacy
+Grant is provided to support existing projects. Art can be exposed to many elements at Firefly -- mud, rain, sun, and
 most of all, people -- and this grant is designed to provide funding to help with wear and tear produced by this exposure.
 
-
-### Review Criteria
+## Review Criteria
 
 Proposals will be evaluated based on the following factors:
 
 * Thoughtfulness -- how well thought out is the project's relationship with participants?
 * Creativity -- how original and awe-inspiring is your project?
-* Feasibility -- how feasible is this project?
+* Need -- What does the project need additionally funding for?
 
 Legacy Grants are currently available for $100.
 
-### Summary of Deadlines
+## Summary of Deadlines
 | *Event*                                | *Deadline*      |
 | :-----                                 | ---------:      |
 | Submission Deadline                    | 2014 March 4    |
@@ -29,16 +28,16 @@ Legacy Grants are currently available for $100.
 | Firefly Event                          | 2014 July 1 - 6 |
 | Grant Documentation Deadline           | 2014 August 1   |
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Application Submission Details
-#### Art Grant Contract Details
-#### Ticket Registration Details
-#### Artist Meetup Details
-#### Open Studios Details
-#### Artist Meetup Details
-#### Firefly Details
-#### Documentation Details
+### Application Submission Details
+### Art Grant Contract Details
+### Ticket Registration Details
+### Artist Meetup Details
+### Open Studios Details
+### Artist Meetup Details
+### Firefly Details
+### Documentation Details
 
 ## Application
 
@@ -52,12 +51,6 @@ Please provide us with the following information on your application:
 * Contact Postal Address
 * Contact E-mail Address
 * Contact Phone Number
-
-The following questions are not required but are helpful for our statistics:
-* Have you been to a Burning Man Reginoal Event (besides Firefly) before?
-  * If so, how have you participated?
-* Have you attended Burning Man before?
-  * If so, how have you participated?
 * If you are awarded a Legacy Grant, can we use your grant application as an example of a successful application
   next year?
   

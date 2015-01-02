@@ -1,9 +1,10 @@
 # Firefly Creativity Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.
+The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  The
+Creativity Grant is our primary grant, and is designed to fund creative new projects to be shared with our community.
 
-### Review Criteria
+## Review Criteria
 
 Proposals will be evaluated based on the following factors:
 
@@ -21,7 +22,7 @@ Grants are currently available at the following tiers:
 Please indicate which tier you are applying for in your grant application (you may apply for multiple tiers!).  Unlike
 previous years, there is no partial funding model this year.
 
-### Summary of Deadlines
+## Summary of Deadlines
 | *Event*                                | *Deadline*      |
 | :-----                                 | ---------:      |
 | Submission Deadline                    | 2014 March 4    |
@@ -34,16 +35,16 @@ previous years, there is no partial funding model this year.
 | Firefly Event                          | 2014 July 1 - 6 |
 | Grant Documentation Deadline           | 2014 August 1   |
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Application Submission Details
-#### Art Grant Contract Details
-#### Ticket Registration Details
-#### Artist Meetup Details
-#### Open Studios Details
-#### Artist Meetup Details
-#### Firefly Details
-#### Documentation Details
+### Application Submission Details
+### Art Grant Contract Details
+### Ticket Registration Details
+### Artist Meetup Details
+### Open Studios Details
+### Artist Meetup Details
+### Firefly Details
+### Documentation Details
 
 ## Application
 
@@ -70,7 +71,6 @@ The following questions are not required but are helpful for our statistics:
  
 
 ### Grant Application
-
 Please submit a .pdf file that addresses all of the following items:
 
 #### Experience Design
@@ -80,7 +80,7 @@ or inspirations.
 
 #### Technical Design
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be
-constructed?  Please include relevants sketches and diagrams.
+constructed?  Please include relevants sketches and diagrams.  The more detailed, the better!
 
 #### Installation Plan
 How will you get your project to its placed site? How will you weatherproof it? How will you make sure you complete it
@@ -105,13 +105,14 @@ Attach a seperate table with an itemized budget that lists all of your expected 
 equipment rentals, consumables, etc.)
 
 Please also list a separate table showing how you plan to cover these costs -- what portion of the expenses will be
-covered by the grant? How much from personal funds?
+covered by the grant? How much from other funding sources (fundraising, personal funds, etc.)?
 
 You may provide several proposed funding models, one for each grant tier you apply for.  Remember -- you can apply for
 multiple funding tiers, but there is no partial funding.
 
 #### Project Placement
-Where would you like your project to be placed?  Priority will be given to returning projects.
+Where would you like your project to be placed?  Priority will be given to returning projects, though final placement
+will not determined until Placement Weekend in June (exact date TBA).
 
 #### Leave No Trace Plan
 Please describe your LNT Plan.

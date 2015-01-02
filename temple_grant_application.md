@@ -1,11 +1,16 @@
 # Firefly Temple Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  The Temple aims to satisfy both a civic and spiritual need by creating a sacred space for gathering at Firefly.  The Temple is placed in the field, and provides a space for Fireflies to seek quiet contemplation and introspection at the event.  It is of the utmost importance that the The Temple defines a space; that said, it does not have to be traditional shelter or building.
+The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  The Temple aims to
+satisfy both a civic and spiritual need by creating a sacred space for gathering at Firefly.  The Temple is placed in
+the field, and provides a space for Fireflies to seek quiet contemplation and introspection at the event.  It is of the
+utmost importance that the the Temple defines a physical (and emotional) space; that said, it does not have to be traditional shelter or
+building.
 
-It is traditional for the temple to serve as a place for participants to leave offerings, and the structure will be burned on Saturday night of the event.  
+It is traditional for the temple to serve as a place for participants to leave offerings, and the structure will be
+burned on Saturday night of the event.
 
-### Review Criteria
+## Review Criteria
 
 Proposals will be evaluated based on the following factors:
 
@@ -15,7 +20,7 @@ Proposals will be evaluated based on the following factors:
 
 Temple Grant Applications will be considered for amounts up to $1000.00.
 
-### Summary of Deadlines
+## Summary of Deadlines
 | *Event*                                | *Deadline*      |
 | :-----                                 | ---------:      |
 | Submission Deadline                    | 2014 March 4    |
@@ -28,16 +33,46 @@ Temple Grant Applications will be considered for amounts up to $1000.00.
 | Firefly Event                          | 2014 July 1 - 6 |
 | Grant Documentation Deadline           | 2014 August 1   |
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Application Submission Details
-#### Art Grant Contract Details
-#### Ticket Registration Details
-#### Artist Meetup Details
-#### Open Studios Details
-#### Artist Meetup Details
-#### Firefly Details
-#### Documentation Details
+### Application Submission Details
+
+### Art Grant Contract Details
+
+### Ticket Registration Details
+
+### Artist Meetup Details
+#### What is the Artist Meetup?
+As a part of Firefly Arts Collective's efforts to support artists, we will be holding two artist meetups in April and
+June.  These meetups are a way for artists to meet each other, share ideas, and find solutions to issues they may be
+having.  These provide informal situations for artists to get help from their peers and from Firefly Arts Collectives.
+
+#### Do I need to bring anything?
+Nope! Just yourself!  And maybe a dish if we decide to do it pot-luck style.
+
+### Open Studios Details
+#### What is Open Studios?
+For the past three years, Firefly Arts Collective have participated in Somerville Open Studios, providing a venue for
+our artists to share their work with the city of Somerville.  This year we *require* all artists receiving Temple grants to
+bring their projects to Firefly Open Studios.
+
+#### What if my project isn't finished yet / doesn't fit in the space?
+That's fine!  In Open Studio's own words, it's purpose "is to broaden the public's exposure to, and appreciation of,
+finished works of art as well as the art-making process."  Bring your project in its semi-finished state and share the
+process of making it with the community!  Bringing sketches, drawings, renderings, and prototypes is a welcome addition.
+
+#### What if I live in a different state?
+We'd love it if you made it to Open Studios (and will strongly encourage you to do so!), but we'll waive the
+requirement to attend.
+
+#### What if I have my own studio for Open Studios?
+You are still required to bring your Firefly-funded project to Firefly Open Studios.  If you'd like, you can bring
+unfunded works to Open Studios too!
+
+### Firefly Details
+#### When do projects need to be installed by?
+### Documentation Details
+#### What sort of documentation do I need?
 
 ## Application
 
@@ -51,17 +86,8 @@ Please provide us with the following information on your application:
 * Contact Postal Address
 * Contact E-mail Address
 * Contact Phone Number
-
-The following questions are not required but are helpful for our statistics:
-* Have you attended Firefly before?
-  * If so, how have you participated?
-* Have you been to a Burning Man Reginoal Event (besides Firefly) before?
-  * If so, how have you participated?
-* Have you attended Burning Man before?
-  * If so, how have you participated?
 * If you are awarded a Temple Grant, can we use your grant application as an example of a successful application next
   year?
-  
 
 ### Grant Application
 

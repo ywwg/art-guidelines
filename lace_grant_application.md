@@ -1,9 +1,13 @@
 # Firefly Lace Grant
 
 ## Overview
-The Firefly Arts Collective, (FAC), is excited to offer a grant program for our annual event in the woods.  In honor of our event's tenth anniversary, each year Firefly gives out three large-scale grants to ambitious projects that embody our values.  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriate large in scale, spectacular, and suitable for presentation at a variety of venues.
+The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  In honor of
+our event's tenth anniversary, each year Firefly gives out three large-scale grants to ambitious projects that embody
+our values.  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at
+Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriate large in scale, spectacular,
+and suitable for presentation at a variety of venues.
 
-### Review Criteria
+## Review Criteria
 
 Proposals will be evaluated based on the following factors:
 
@@ -13,7 +17,7 @@ Proposals will be evaluated based on the following factors:
 
 Lace Grant Applications will be considered for amounts up to $1000.00.
 
-### Summary of Deadlines
+## Summary of Deadlines
 | *Event*                                | *Deadline*      |
 | :-----                                 | ---------:      |
 | Submission Deadline                    | 2014 March 4    |
@@ -27,16 +31,17 @@ Lace Grant Applications will be considered for amounts up to $1000.00.
 | FIGMENT Boston                         | 2014 July       |
 | Grant Documentation Deadline           | 2014 August 1   |
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Application Submission Details
-#### Art Grant Contract Details
-#### Ticket Registration Details
-#### Artist Meetup Details
-#### Open Studios Details
-#### Artist Meetup Details
-#### Firefly Details
-#### Documentation Details
+### Application Submission Details
+### Art Grant Contract Details
+### Ticket Registration Details
+### Artist Meetup Details
+### Open Studios Details
+### Artist Meetup Details
+### Firefly Details
+### FIGMENT Boston Details
+### Documentation Details
 
 ## Application
 
