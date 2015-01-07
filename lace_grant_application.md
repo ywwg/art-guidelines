@@ -34,14 +34,48 @@ Lace Grant Applications will be considered for amounts up to $1000.00.
 ## Frequently Asked Questions
 
 ### Application Submission Details
+
 ### Art Grant Contract Details
+
 ### Ticket Registration Details
+
 ### Artist Meetup Details
+#### What is the Artist Meetup?
+As a part of Firefly Arts Collective's efforts to support artists, we will be holding two artist meetups in April and
+June.  These meetups are a way for artists to meet each other, share ideas, and find solutions to issues they may be
+having.  These provide informal situations for artists to get help from their peers and from Firefly Arts Collectives.
+
+#### Do I need to bring anything?
+Nope! Just yourself!  And maybe a dish if we decide to do it pot-luck style.
+
 ### Open Studios Details
-### Artist Meetup Details
+#### What is Open Studios?
+For the past three years, Firefly Arts Collective have participated in Somerville Open Studios, providing a venue for
+our artists to share their work with the city of Somerville.  This year we *require* all artists receiving Temple grants to
+bring their projects to Firefly Open Studios.
+
+#### What if my project isn't finished yet / doesn't fit in the space?
+That's fine!  In Open Studio's own words, it's purpose "is to broaden the public's exposure to, and appreciation of,
+finished works of art as well as the art-making process."  Bring your project in its semi-finished state and share the
+process of making it with the community!  Bringing sketches, drawings, renderings, and prototypes is a welcome addition.
+
+#### What if I live in a different state?
+We'd love it if you made it to Open Studios (and will strongly encourage you to do so!), but we'll waive the
+requirement to attend.
+
+#### What if I have my own studio for Open Studios?
+You are still required to bring your Firefly-funded project to Firefly Open Studios.  If you'd like, you can bring
+unfunded works to Open Studios too!
+
 ### Firefly Details
+#### When do projects need to be installed by?
+
 ### FIGMENT Boston Details
+For details about FIGMENT Boston, please go read their [FAQ](http://boston.figmentproject.org/artist_faqs)
+
 ### Documentation Details
+#### What sort of documentation do I need?
+
 
 ## Application
 
