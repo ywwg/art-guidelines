@@ -107,14 +107,9 @@ How will you get your project to its placed site? How will you weatherproof it? 
 before the event begins? Keep in mind that the Temple is typically built during work weekends, and the majority of construction is completed before the event.
 
 #### Risk Analysis
-*How do we rephrase this?*
-Please perform a risk analysis. What safeguards do you have in place? How do you plan to protect the project or
-participants during the day or night and from the project’s correct functionor error? What are the potential health
-hazards or danger to the environment? Please include a detailed safety plan if the project requires structural,
-combustible, or other qualities of risk.Some large-scale art, or projects utilizing fire, for example, may be subject to
-greater scrutiny/further questions from the Art Grant Review Committee. ANY Art that incorporates fire MUSTbe reviewed
-by the Fire Core. For further ideas about safety of public art, please see:
-http://www.burningman.com/installations/creating_dangerous_art.html
+Safety of the project and participants is very important to us!  How do you plan to protect your project and participants from each other during both daylight and darkness?  Please include a detailed safety plan if the project has structural, combustible, or other major risk factors.  Some art (including flame effects and large-scale structures) may be subject to greater scrutiny and review by the Review Committee.
+
+For further guidelines on safety and public art, please see Burning Man's page on [Creating Dangerous Art](http://www.burningman.com/installations/creating_dangerous_art.html)
 
 #### Project Timeline
 Attach (as a table) a rough timeline for your project.  We want to know that you've thought through how long this will
