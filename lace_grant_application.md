@@ -20,16 +20,16 @@ Lace Grant Applications will be considered for amounts up to $1000.00.
 ## Summary of Deadlines
 | *Event*                                | *Deadline*      |
 | :-----                                 | ---------:      |
-| Submission Deadline                    | 2014 March 4    |
-| Grant Applicants notified of decisions | 2014 March 17   |
-| Art Grant Contract Acceptance Deadline | 2014 March 22   |
-| Ticket Registration Deadline           | 2014 March 24   |
-| Artist Meetup #1                       | 2014 April      |
-| Firefly Open Studios                   | 2014 May        |
-| Artist Meetup #2                       | 2014 June       |
-| Firefly Event                          | 2014 July 1 - 6 |
-| FIGMENT Boston                         | 2014 July       |
-| Grant Documentation Deadline           | 2014 August 1   |
+| Submission Deadline                    | 2015 February 14                      |
+| Grant Applicants notified of decisions | 2015 February 27             |
+| Art Grant Contract Acceptance Deadline | 2015 March 6       |
+| Ticket Registration Deadline           | 2015 March (TBD)         |
+| Artist Meetup #1                       | 2015 April(TBD)       |
+| Firefly Open Studios                   | 2015 May 2 - 3        |
+| Artist Meetup #2                       | 2015 June (TBD)       |
+| Firefly Event                          | 2015 July (TBD)        |
+| FIGMENT Boston                         | 2015 July (TBD)       |
+| Grant Documentation Deadline           | 2015 August 1    |
 
 ## Frequently Asked Questions
 
@@ -69,13 +69,14 @@ unfunded works to Open Studios too!
 
 ### Firefly Details
 #### When do projects need to be installed by?
+All projects must be completed by Thursday of the event.  Failure to complete your project by this time may result in a withholding of the grant deposit.
 
 ### FIGMENT Boston Details
 For details about FIGMENT Boston, please go read their [FAQ](http://boston.figmentproject.org/artist_faqs)
 
 ### Documentation Details
 #### What sort of documentation do I need?
-
+At minimum, 3 - 4 photos of your project.  These photos should verify that your project was completed, and was completed to meet the proposed project requirements.  For bonus points, submit video and/or audio recordings of your project!  We use this material not only to demonstrate that your grant was completed as documented, but as promotional material to showcase all of the great work produced by Fireflies.
 
 ## Application
 
