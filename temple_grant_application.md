@@ -4,7 +4,7 @@
 The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  The Temple aims to
 satisfy both a civic and spiritual need by creating a sacred space for gathering at Firefly.  The Temple is placed in
 the field, and provides a space for Fireflies to seek quiet contemplation and introspection at the event.  It is of the
-utmost importance that the the Temple defines a physical (and emotional) space; that said, it does not have to be traditional shelter or
+utmost importance that the Temple defines a physical (and emotional) space; that said, it does not have to be traditional shelter or
 building.
 
 It is traditional for the temple to serve as a place for participants to leave offerings, and the structure will be
@@ -27,9 +27,9 @@ Temple Grant Applications will be considered for amounts up to $1000.00.
 | Grant Applicants notified of decisions | 2015 February 27             |
 | Art Grant Contract Acceptance Deadline | 2015 March 6       |
 | Ticket Registration Deadline           | 2015 March (TBD)      |
-| Artist Meetup #1                       | 2015 April (TBD)       |
+| Artist Meet-up #1                       | 2015 April (TBD)       |
 | Firefly Open Studios                   | 2015 May 2 - 3           |
-| Artist Meetup #2                       | 2015 June (TBD)       |
+| Artist Meet-up #2                       | 2015 June (TBD)       |
 | Firefly Event                          | 2015 July (TBD)       |
 | Grant Documentation Deadline           | 2015 August 1    |
 
@@ -48,10 +48,10 @@ Temple Grant Applications will be considered for amounts up to $1000.00.
 #### What if my project needs more than one person to execute it?  Will my entire group be guaranteed tickets to the event?
 
 
-### Artist Meetup Details
-#### What is the Artist Meetup?
-As a part of Firefly Arts Collective's efforts to support artists, we will be holding two artist meetups in April and
-June.  These meetups are a way for artists to meet each other, share ideas, and find solutions to issues they may be
+### Artist Meet-up Details
+#### What is the Artist Meet-up?
+As a part of Firefly Arts Collective's efforts to support artists, we will be holding two artist meet-ups in April and
+June.  These meet-ups are a way for artists to meet each other, share ideas, and find solutions to issues they may be
 having.  These provide informal situations for artists to get help from their peers and from Firefly Arts Collectives.
 
 #### Do I need to bring anything?
@@ -59,7 +59,7 @@ Nope! Just yourself!  And maybe a dish if we decide to do it pot-luck style.
 
 ### Open Studios Details
 #### What is Open Studios?
-For the past three years, Firefly Arts Collective have participated in Somerville Open Studios, providing a venue for
+For the past three years, Firefly Arts Collective has participated in Somerville Open Studios, providing a venue for
 our artists to share their work with the city of Somerville.  This year we *require* all artists receiving Temple grants to
 bring their projects to Firefly Open Studios.
 
@@ -103,7 +103,6 @@ Please provide us with the following information on your application:
   year?
 
 ### Grant Application
-
 Please submit a .pdf file that addresses all of the following items:
 
 #### Experience Design
@@ -113,7 +112,7 @@ or inspirations.
 
 #### Technical Design
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be
-constructed?  Please include relevants sketches and diagrams.
+constructed?  Please include relevant sketches and diagrams.
 
 #### Installation Plan
 How will you get your project to its placed site? How will you weatherproof it? How will you make sure you complete it
@@ -129,7 +128,7 @@ Attach (as a table) a rough timeline for your project.  We want to know that you
 take to build.  Include the required dates included in the Summary of Deadlines.
 
 #### Project Budget
-Attach a seperate table with an itemized budget that lists all of your expected expenses (including material costs,
+Attach a separate table with an itemized budget that lists all of your expected expenses (including material costs,
 equipment rentals, consumables, etc.)
 
 Please also list a separate table showing how you plan to cover these costs -- what portion of the expenses will be

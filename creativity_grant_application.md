@@ -29,9 +29,9 @@ previous years, there is no partial funding model this year.
 | Grant Applicants notified of decisions | 2014 March 17   |
 | Art Grant Contract Acceptance Deadline | 2014 March 22   |
 | Ticket Registration Deadline           | 2014 March 24   |
-| Artist Meetup #1                       | 2014 April      |
+| Artist Meet-up #1                       | 2014 April      |
 | Firefly Open Studios                   | 2014 May        |
-| Artist Meetup #2                       | 2014 June       |
+| Artist Meet-up #2                       | 2014 June       |
 | Firefly Event                          | 2014 July 1 - 6 |
 | Grant Documentation Deadline           | 2014 August 1   |
 
@@ -40,9 +40,9 @@ previous years, there is no partial funding model this year.
 ### Application Submission Details
 ### Art Grant Contract Details
 ### Ticket Registration Details
-### Artist Meetup Details
+### Artist Meet-up Details
 ### Open Studios Details
-### Artist Meetup Details
+### Artist Meet-up Details
 ### Firefly Details
 ### Documentation Details
 
@@ -62,7 +62,7 @@ Please provide us with the following information on your application:
 The following questions are not required but are helpful for our statistics:
 * Have you attended Firefly before?
   * If so, how have you participated?
-* Have you been to a Burning Man Reginoal Event (besides Firefly) before?
+* Have you been to a Burning Man Regional Event (besides Firefly) before?
   * If so, how have you participated?
 * Have you attended Burning Man before?
   * If so, how have you participated?
@@ -80,7 +80,7 @@ or inspirations.
 
 #### Technical Design
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be
-constructed?  Please include relevants sketches and diagrams.  The more detailed, the better!
+constructed?  Please include relevant sketches and diagrams.  The more detailed, the better!
 
 #### Installation Plan
 How will you get your project to its placed site? How will you weatherproof it? How will you make sure you complete it
@@ -89,7 +89,7 @@ before Thursday? Convince us that you can make this project happen in the middle
 #### Risk Analysis
 *How do we rephrase this?*
 Please perform a risk analysis. What safeguards do you have in place? How do you plan to protect the project or
-participants during the day or night and from the project’s correct functionor error? What are the potential health
+participants during the day or night and from the project’s correct function or error? What are the potential health
 hazards or danger to the environment? Please include a detailed safety plan if the project requires structural,
 combustible, or other qualities of risk.Some large-scale art, or projects utilizing fire, for example, may be subject to
 greater scrutiny/further questions from the Art Grant Review Committee. ANY Art that incorporates fire MUSTbe reviewed
@@ -101,7 +101,7 @@ Attach (as a table) a rough timeline for your project.  We want to know that you
 take to build.  Include the required dates included in the Summary of Deadlines.
 
 #### Project Budget
-Attach a seperate table with an itemized budget that lists all of your expected expenses (including material costs,
+Attach a separate table with an itemized budget that lists all of your expected expenses (including material costs,
 equipment rentals, consumables, etc.)
 
 Please also list a separate table showing how you plan to cover these costs -- what portion of the expenses will be
