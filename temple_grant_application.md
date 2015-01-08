@@ -2,13 +2,13 @@
 
 ## Overview
 The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  The Temple aims to
-satisfy both a civic and spiritual need by creating a sacred space for gathering at Firefly.  The Temple is placed in
+satisfy both civic and spiritual needs by creating a sacred gathering space at Firefly.  The Temple is placed in
 the field, and provides a space for Fireflies to seek quiet contemplation and introspection at the event.  It is of the
-utmost importance that the Temple defines a physical (and emotional) space; that said, it does not have to be traditional shelter or
+utmost importance that the Temple defines a physical (and emotional) space; that said, it does not have to be a traditional shelter or
 building.
 
-It is traditional for the temple to serve as a place for participants to leave offerings, and the structure will be
-burned on Saturday night of the event.
+It is traditional for the Temple to serve as a place for participants to leave offerings, and the structure will be
+burned on the Saturday night of the event.
 
 ## Review Criteria
 
@@ -38,7 +38,7 @@ Temple Grant Applications will be considered for amounts up to $1000.00.
 ### Application Submission Details
 
 ### Art Grant Contract Details
-#### Something about setting up the temple by the last work weekend.
+#### Something about setting up the temple by the last work weekend. (All projects must be completed by Thursday of the event.)
 
 ### Ticket Registration Details
 #### Am I required to register for a ticket?
@@ -69,7 +69,7 @@ finished works of art as well as the art-making process."  Bring your project in
 process of making it with the community!  Bringing sketches, drawings, renderings, and prototypes is a welcome addition.
 
 #### What if I live in a different state?
-We'd love it if you made it to Open Studios (and will strongly encourage you to do so!), but we'll waive the
+We'd love it if you could make it to Open Studios (and will strongly encourage you to do so!), but we'll waive the
 requirement to attend.
 
 #### What if I have my own studio for Open Studios?
@@ -85,7 +85,7 @@ All projects must be completed by Thursday of the event.  Failure to complete yo
 
 ### Documentation Details
 #### What sort of documentation do I need?
-At minimum, 3 - 4 photos of your project.  These photos should verify that your project was completed, and was completed to meet the proposed project requirements.  For bonus points, submit video and/or audio recordings of your project!  We use this material not only to demonstrate that your grant was completed as documented, but as promotional material to showcase all of the great work produced by Fireflies.
+At minimum, 3 to 4 photos of your project.  These photos should verify that your project was completed, and was completed to meet the proposed project requirements.  For bonus points, submit video and/or audio recordings of your project!  We use this material not only to demonstrate that your grant was completed as documented, but as promotional material to showcase all of the great work produced by Fireflies.
 
 ## Application
 
