@@ -38,8 +38,15 @@ Temple Grant Applications will be considered for amounts up to $1000.00.
 ### Application Submission Details
 
 ### Art Grant Contract Details
+#### Something about setting up the temple by the last work weekend.
 
 ### Ticket Registration Details
+#### Am I required to register for a ticket?
+
+#### If my grant proposal is accepted will I still have to pay for my ticket?
+
+#### What if my project needs more than one person to execute it?  Will my entire group be guaranteed tickets to the event?
+
 
 ### Artist Meetup Details
 #### What is the Artist Meetup?
@@ -70,6 +77,9 @@ You are still required to bring your Firefly-funded project to Firefly Open Stud
 unfunded works to Open Studios too!
 
 ### Firefly Details
+
+#### Will Firefly provide assistance transporting art to the event?
+
 #### When do projects need to be installed by?
 All projects must be completed by Thursday of the event.  Failure to complete your project by this time may result in a withholding of the grant deposit.
 
@@ -124,9 +134,6 @@ equipment rentals, consumables, etc.)
 
 Please also list a separate table showing how you plan to cover these costs -- what portion of the expenses will be
 covered by the grant? How much from personal funds?
-
-You may provide several proposed funding models, one for each grant tier you apply for.  Remember -- you can apply for
-multiple funding tiers, but there is no partial funding.
 
 #### Leave No Trace Plan
 Please describe your LNT Plan.
