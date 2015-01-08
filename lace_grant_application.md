@@ -1,10 +1,9 @@
 # Firefly Lace Grant
 
 ## Overview
-The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  In honor of
-our event's tenth anniversary, each year Firefly gives out three large-scale grants to ambitious projects that embody
-our values.  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at
-Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriate large in scale, spectacular,
+The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  Each year, Firefly gives out three large-scale grants to ambitious projects that embody
+our values.  These projects not only serve as participatory spectacles at Firefly, but also represent Firefly outside of the woods at
+community experiences like Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriately large in scale, spectacular,
 and suitable for presentation at a variety of venues.
 
 ## Review Criteria
@@ -21,7 +20,7 @@ Lace Grant Applications will be considered for amounts up to $1000.00.
 | *Event*                                | *Deadline*      |
 | :-----                                 | ---------:      |
 | Submission Deadline                    | 2015 February 14                      |
-| Grant Applicants notified of decisions | 2015 February 27             |
+| Grant applicants notified of decisions | 2015 February 27             |
 | Art Grant Contract Acceptance Deadline | 2015 March 6       |
 | Ticket Registration Deadline           | 2015 March (TBD)         |
 | Artist Meet-up #1                       | 2015 April(TBD)       |
@@ -36,6 +35,7 @@ Lace Grant Applications will be considered for amounts up to $1000.00.
 ### Application Submission Details
 
 ### Art Grant Contract Details
+#### What's the significance of the "Lace" name?
 
 ### Ticket Registration Details
 
