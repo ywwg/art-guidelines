@@ -1,11 +1,18 @@
 # Firefly Lace Grant
 
 ## Overview
-The Firefly Arts Collective is excited to offer a grant program for our annual event in the woods.  In honor of
-our event's tenth anniversary, each year Firefly gives out three large-scale grants to ambitious projects that embody
-our values.  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at
-Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriate large in scale, spectacular,
-and suitable for presentation at a variety of venues.
+The Firefly Arts Collective is proud to dedicate a significant
+portion of our annual budget towards grant programs for
+art at our annual event in the woods and in Boston. This year we are offering the
+following programs:
+
+* [Creativity Grant]()
+* [Legacy Grant]()
+* [Burner Exchange Grant]()
+* [Lace Grant]()
+* [Temple Grant]()
+
+This application is for the Lace Grant.  This grant is to support projects of a larger and more ambitious scale than the typical Creativity Grant project (hence the grant amount of $1000, rather than the Creativity Grant's maximum amount of $700).  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriately large in scale, spectacular, and suitable for presentation at a variety of venues.
 
 ## Review Criteria
 
@@ -36,8 +43,14 @@ Lace Grant Applications will be considered for amounts up to $1000.00.
 ### Application Submission Details
 
 ### Art Grant Contract Details
+#### Something about setting up the temple by the last work weekend.
 
 ### Ticket Registration Details
+#### Am I required to register for a ticket?
+
+#### If my grant proposal is accepted will I still have to pay for my ticket?
+
+#### What if my project needs more than one person to execute it?  Will my entire group be guaranteed tickets to the event?
 
 ### Artist Meet-up Details
 #### What is the Artist Meet-up?
@@ -68,8 +81,16 @@ You are still required to bring your Firefly-funded project to Firefly Open Stud
 unfunded works to Open Studios too!
 
 ### Firefly Details
+#### What do I need to know about Firefly?
+*** Event Guide Here ***
+
+#### What's the weather like?
+
+#### Will Firefly provide assistance transporting art to the event?
+
 #### When do projects need to be installed by?
 All projects must be completed by Thursday of the event.  Failure to complete your project by this time may result in a withholding of the grant deposit.
+
 
 ### FIGMENT Boston Details
 For details about FIGMENT Boston, please go read their [FAQ](http://boston.figmentproject.org/artist_faqs)
