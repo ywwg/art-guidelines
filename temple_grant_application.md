@@ -129,7 +129,7 @@ Please provide us with the following information on your application:
 * Contact Postal Address
 * Contact E-mail Address
 * Contact Phone Number
-* If you are awarded a Lace Grant, can we use your grant application as an example of a successful application next
+* If you are awarded a Temple Grant, can we use your grant application as an example of a successful application next
   year?
 
 ### Grant Application
