@@ -1,10 +1,8 @@
 # Firefly Lace Grant
 
 ## Overview
-The Firefly Arts Collective is proud to dedicate a significant
-portion of our annual budget towards grant programs for
-art at our annual event in the woods and in Boston. This year we are offering the
-following programs:
+The Firefly Arts Collective is proud to dedicate a significant portion of our annual budget towards grant programs for
+art at our annual event in the woods and in Boston. This year we are offering the following programs:
 
 * [Creativity Grant]()
 * [Legacy Grant]()
@@ -12,7 +10,11 @@ following programs:
 * [Lace Grant]()
 * [Temple Grant]()
 
-This application is for the Lace Grant.  This grant is to support projects of a larger and more ambitious scale than the typical Creativity Grant project (hence the grant amount of $1000, rather than the Creativity Grant's maximum amount of $700).  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at Open Studios, FIGMENT Boston, and other similar events.  These projects must be appropriately large in scale, spectacular, and suitable for presentation at a variety of venues.
+This application is for the Lace Grant.  This grant is to support projects of a larger and more ambitious scale than the
+typical Creativity Grant project (hence the grant amount of $1000, rather than the Creativity Grant's maximum amount of
+$700).  These projects not only serve as spectacles at Firefly, but also represent Firefly outside of our event at Open
+Studios, FIGMENT Boston, and other similar events.  These projects must be appropriately large in scale, spectacular,
+and suitable for presentation at a variety of venues.
 
 ## Review Criteria
 
@@ -28,29 +30,43 @@ Lace Grant Applications will be considered for amounts up to $1000.00.
 | *Event*                                | *Deadline*      |
 | :-----                                 | ---------:      |
 | Submission Deadline                    | 2015 February 14                      |
-| Grant Applicants notified of decisions | 2015 February 27             |
+| Grant applicants notified of decisions | 2015 February 27             |
 | Art Grant Contract Acceptance Deadline | 2015 March 6       |
 | Ticket Registration Deadline           | 2015 March (TBD)         |
 | Artist Meet-up #1                       | 2015 April(TBD)       |
 | Firefly Open Studios                   | 2015 May 2 - 3        |
 | Artist Meet-up #2                       | 2015 June (TBD)       |
-| Firefly Event                          | 2015 July (TBD)        |
+| Firefly Event                          | 2015 June 30 - July 5                        |
 | FIGMENT Boston                         | 2015 July (TBD)       |
 | Grant Documentation Deadline           | 2015 August 1    |
 
 ## Frequently Asked Questions
 
 ### Application Submission Details
+#### How do I submit my application?
+*** Need to Answer ***
+
+#### What does my application need to look like?
+There's no standard format as long as you answer all of the required questions below!
+
+* Remember the three criteria, and convince us that your project meets all three!  Make sure that the Review Committee
+  can understand why your project is so awesome (and feasible!).
+
+* Be as visual as possible.  Sometimes it's extremely difficult to tell exactly what awesome thing you're envisioning
+  from text, and pictures go a long way towards making your vision clear.  Scanned pencil drawings, photographs, or CAD
+  models are all helpful in conveying what you envision.
 
 ### Art Grant Contract Details
-#### Something about setting up the temple by the last work weekend.
 
 ### Ticket Registration Details
 #### Am I required to register for a ticket?
+Yes!  *All* participants in the Firefly Arts Festival must register for a ticket.
 
 #### If my grant proposal is accepted will I still have to pay for my ticket?
+Yes! All participants are expected to pay for their ticket.
 
 #### What if my project needs more than one person to execute it?  Will my entire group be guaranteed tickets to the event?
+Each grant recipient will be allocated exactly one (1) ticket.  The ticket may be allocated to any individual on the grant team (not just the contact).
 
 ### Artist Meet-up Details
 #### What is the Artist Meet-up?
@@ -59,7 +75,7 @@ June.  These meet-ups are a way for artists to meet each other, share ideas, and
 having.  These provide informal situations for artists to get help from their peers and from Firefly Arts Collectives.
 
 #### Do I need to bring anything?
-Nope! Just yourself!  And maybe a dish if we decide to do it pot-luck style.
+Nope! Just yourself!  And maybe a dish if we decide to do it pot-luck style (details to be announced soon!).
 
 ### Open Studios Details
 #### What is Open Studios?
@@ -82,22 +98,32 @@ unfunded works to Open Studios too!
 
 ### Firefly Details
 #### What do I need to know about Firefly?
-*** Event Guide Here ***
-
-#### What's the weather like?
+Check out the [Survival Guide](http://fireflyartscollective.org/firefly/survival-guide/) for everything you need to know
+about Firefly Arts Festival.
 
 #### Will Firefly provide assistance transporting art to the event?
+Yes!  Firefly will assist in transporting all grant recipient projects to and from each required event.
 
 #### When do projects need to be installed by?
 All projects must be completed by Thursday of the event.  Failure to complete your project by this time may result in a withholding of the grant deposit.
 
+#### What do you mean by Leave No Trace?
+Firefly is a Leave No Trace event, meaning that we seek to minimally impact our environment.  Don't use materials like
+sequins, feather, or styrofoam that break apart into pieces that are difficult to clean up.  Make sure that every single
+part of your project comes back with you at the end of the event!
+
+In addition to the material you bring with you, please remember to leave the environment as you found it!  This means
+treating the trees well (don't cut them down or drill things into them!), filling up any holes that you create, and
+generally taking good care of the land.
+
+For more on Leave No Trace, read [Burning Man's LNT Guide](http://survival.burningman.com/leave-no-trace/)
 
 ### FIGMENT Boston Details
 For details about FIGMENT Boston, please go read their [FAQ](http://boston.figmentproject.org/artist_faqs)
 
 ### Documentation Details
 #### What sort of documentation do I need?
-At minimum, 3 - 4 photos of your project.  These photos should verify that your project was completed, and was completed to meet the proposed project requirements.  For bonus points, submit video and/or audio recordings of your project!  We use this material not only to demonstrate that your grant was completed as documented, but as promotional material to showcase all of the great work produced by Fireflies.
+At minimum, 3 to 4 photos of your project.  These photos should verify that your project was completed, and was completed to meet the proposed project requirements.  For bonus points, submit video and/or audio recordings of your project!  We use this material not only to demonstrate that your grant was completed as documented, but as promotional material to showcase all of the great work produced by Fireflies.
 
 ## Application
 
@@ -119,16 +145,21 @@ Please provide us with the following information on your application:
 Please submit a .pdf file that addresses all of the following items:
 
 #### Experience Design
-Tell us about your project.  Please include the concept, the scale, how people are to interact with it (is it visual?
-aural? tactile?), and anything else relevant to the experience.  Please include any relevant drawings, sketches, images,
-or inspirations.
+Tell us about how your project.  We're most interested in the concept and how your project fits in with the rest of
+Firefly.  Be sure to tell us how you expect people to interact with it -- is it visual? aural? tactile?
+
+Please include any relevant drawings, sketches, images, or inspirations.
 
 #### Technical Design
 How will you actually build this? What sort of materials, hardware, tools, etc. will you need?  How will it be
 constructed?  Please include relevant sketches and diagrams.
 
 #### Installation Plan
-Lace Grant projects provide logistical challenges beyond that of a normal Creativity Grant.  The project must be exhibited not just at Firefly, but also at FIGMENT in the heart of Boston.  How do you plan on getting your project to each site?  How do you plan on assembling it within a reasonable time frame at each event?  How will the project be weatherproofed?
+Lace Grant projects provide logistical challenges beyond that of a normal Creativity Grant.  The project must be
+exhibited not just at Firefly, but also at FIGMENT in the heart of Boston.  How do you plan on getting your project to
+each site?  How do you plan on assembling it within a reasonable time frame at each event?  How will the project be
+weatherproofed?
+
 
 #### Risk Analysis
 Safety of the project and participants is very important to us!  How do you plan to protect your project and participants from each other during both daylight and darkness?  Please include a detailed safety plan if the project has structural, combustible, or other major risk factors.  Some art (including flame effects and large-scale structures) may be subject to greater scrutiny and review by the Review Committee.
@@ -153,4 +184,5 @@ multiple funding tiers, but there is no partial funding.
 Where would you like your project to be placed at Firefly?  Priority will be given to returning projects.
 
 #### Leave No Trace Plan
-Please describe your LNT Plan.
+Firefly is a Leave No Trace event (for more on what this means, see the FAQ above).  Please describe how your plan for
+how your installation will Leave No Trace at our event.w
