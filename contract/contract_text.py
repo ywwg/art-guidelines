@@ -1,0 +1,104 @@
+content = r'''
+\documentclass[11pt]{article}
+
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage[final]{pdfpages}
+\usepackage{fancyhdr}
+\usepackage{datetime}
+\usepackage{enumitem}
+
+\newcommand{\grant}{Lace Grant }
+\newcommand{\project}{Vortex Loop }
+\newcommand{\artist}{Johnathan West }
+\newcommand{\amount}{1000.00 }
+\newcommand{\fac}{Firefly Arts Collective }
+
+\begin{document}
+\chead[Firefly \grant 2015]{\project}
+
+\centerline{\Large \bf Firefly Arts Collective}
+\medskip
+\centerline{\Large \bf \grant Contract}
+\medskip
+\centerline{Dated: \today}
+\bigskip
+
+\section*{Overview}
+This artist agreement is between the artist and \fac regarding the submitted proposal for \project.
+
+The artist, \artist, desires to receive grant funding to bring \project to the Firefly Arts Festival in July \the\year;
+\fac has agreed to provide funding in the amount of \amount USD for the project as presented in the proposal.  The
+artist shall not make any changes to the size, shape, and/or design of the proposed project without obtaining approval
+from a representative of \fac's Art Core.
+
+All parties agree to the terms presented below.  Violation of any of the following terms may result in:
+
+\begin{enumerate}[label*=\arabic*.]
+  \item Forfeiture of the grant provided,
+  \item Removal of the proposed piece from the event, and
+  \item Repayment of all grant funds received by the artist for the project.
+\end{enumerate}
+
+\section*{Funding}
+\begin{enumerate}
+\item The project \project will be completed as described in the proposal.  The project will be deemed approved upon
+  completion of the artist's and \fac's signatures on this contract.
+
+\item \fac will retain 50\% of the grant funding as a performance deposit.  The first payment (50\% of the total alotted
+  funding) will be disbursed upon receiving the signed contract; the second payment will be disbursed upon completion of
+  all requirements outlined in this document.
+
+\item The artist agrees that this grant of \amount USD shall represent the total sum s/he will receive from \fac and the artist hereby
+  agrees to assume responsibility for any additional costs beyond the the grant amount incurred in the production of
+  \project for Firefly Arts Festival \the\year.
+
+\section*{Events}
+\item The artist agrees to meet the following schedule of events, under the given schedule:
+
+  \begin{description}
+    \item[Firefly Open Studios (2015 May 2-3)] The artist will attend Somerville Open Studios and present their project
+      as a showcased artist.
+    \item[Project Installation (2015 July 2)] The funded project will be completed and fully operational by sunset on
+      Thursday, July 2 2015.  If the artist would like to arrive at Firefly Arts Festival before its official start
+      date, the artist must apply for Early Arrival and comply with all Early Arrival policies.
+    \item[FIGMENT Boston 2015 (2015 July 25-26)] The project will be installed at FIGMENT Boston 2015 as per FIGMENT's schedule for
+      participating artists.
+  \end{description}
+
+\item Transportation to and from Firefly Arts Festival will be offered by \fac.  If the artist accepts this offer of
+  transportation, the artist is expected to comply with all Art Truck policies and procedures.
+  
+\item The artist agrees to furnish \fac with documentation of the project, including one or more of the following: video
+  files, audio recordings, and/or photographs of reasonable quality, in an accepted digital format.  'Reasonable quality' is to be determined by
+ \fac exclusively.  The artist hereby grants \fac a non-revokable, non-transferable license to use these materials for promotional and informational
+ purposes.
+
+\section*{Liability}
+\item The artist agrees to assume all responsibility for public safety as it pertains to the project at the Firefly Arts
+  Festival, and the artist agrees to observe all safety measures \fac may require.  The artist hereby releases,
+  indemnifies, and holds harmless \fac, its' agents, and its' associates from any claims and/or liability against \fac,
+  actual or threatened, accuring on behalf of the artist and/or any third party resulting from exposure to the project.
+
+\item The artist agrees not to hold \fac responsible for injury and/or damage to the project caused by the negligent
+  acts of third parties.  The artist further agrees that \fac, its' agents, and its' associates may not be held
+  responsible for any damage to, nor destruction of, the project, and the artist hereby waives any such claims.
+\end{enumerate}
+
+The artist hereby acknowledges that they have reviewed, understand, and agree to the terms set forth in this agreement.
+
+\noindent
+\begin{tabular}{ll}
+  & \\[8ex]
+  \makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill} \\
+  \artist & Date \\[8ex]
+  \makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill} \\
+  \fac Project Title & Grant Amount \\[8ex]
+  \makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill} \\
+  \fac Representative & Date \\
+\end{tabular}
+
+\end{document}
+'''
