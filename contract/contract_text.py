@@ -79,11 +79,11 @@ All parties agree to the terms presented below.  Violation of any of the followi
 \section*{Liability}
 \item The artist agrees to assume all responsibility for public safety as it pertains to the project at the Firefly Arts
   Festival, and the artist agrees to observe all safety measures \fac may require.  The artist hereby releases,
-  indemnifies, and holds harmless \fac, its' agents, and its' associates from any claims and/or liability against \fac,
+  indemnifies, and holds harmless \fac, its agents, and its associates from any claims and/or liability against \fac,
   actual or threatened, occuring on behalf of the artist and/or any third party resulting from exposure to the project.
 
 \item The artist agrees not to hold \fac responsible for injury and/or damage to the project caused by the negligent
-  acts of third parties.  The artist further agrees that \fac, its' agents, and its' associates may not be held
+  acts of third parties.  The artist further agrees that \fac, its agents, and its associates may not be held
   responsible for any damage to, nor destruction of, the project, and the artist hereby waives any such claims.
 \end{enumerate}
 
