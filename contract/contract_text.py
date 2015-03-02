@@ -10,11 +10,11 @@ content = r'''
 \usepackage{datetime}
 \usepackage{enumitem}
 
-\newcommand{\grant}{Lace Grant }
-\newcommand{\project}{Vortex Loop }
-\newcommand{\artist}{Johnathan West }
-\newcommand{\amount}{1000.00 }
-\newcommand{\fac}{Firefly Arts Collective }
+\newcommand{\grant}{Lace Grant}
+\newcommand{\project}{Vortex Loop}
+\newcommand{\artist}{Johnathan West}
+\newcommand{\amount}{1000.00}
+\newcommand{\fac}{Firefly Arts Collective}
 
 \begin{document}
 \chead[Firefly \grant 2015]{\project}
