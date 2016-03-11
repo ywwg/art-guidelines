@@ -1,7 +1,13 @@
+#!/usr/bin/python
+
 import csv
 import os
+import os.path
 import shlex
 import subprocess
+
+if not os.path.isdir('./contracts'):
+    os.mkdir('./contracts')
 
 with open('grants.csv', 'rb') as input_file:
     grant_info = csv.reader(input_file)
@@ -23,9 +29,10 @@ with open('grants.csv', 'rb') as input_file:
 
             proc = subprocess.Popen(shlex.split('pdflatex %s' % filename))
             proc.communicate()
-    
+
             os.unlink(filename)
             os.unlink(filename.replace('.tex', '.log'))
             os.unlink(filename.replace('.tex', '.aux'))
             os.unlink(filename.replace('.tex', '.out'))
-            os.rename(filename.replace('.tex', '.pdf'), 'contracts/' + filename.replace('.tex', '.pdf'))
+            pdfname = filename.replace('.tex', '.pdf')
+            os.rename(pdfname, os.path.join('contracts', pdfname))
